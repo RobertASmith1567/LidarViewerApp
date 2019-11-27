@@ -1,0 +1,5 @@
+﻿runtime: python3
+api_version: 1
+handlers:
+- url: /.*
+  script: LidarViewerApp.py
